@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'MyResources'
 DESCRIPTION = 'Simple utilities to assist with deep learning text classification.'
-URL = '#'
+URL = 'https://github.com/JPatrick9793/test_project.git'
 EMAIL = 'john.conway@novaiq.io'
 AUTHOR = 'John Conway'
 REQUIRES_PYTHON = '>=3.6.0'
